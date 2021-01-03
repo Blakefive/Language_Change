@@ -1,11 +1,8 @@
 # Language_Change
 >Install
 pip install pynput
-
 pip install pyautogui
-
 pip install pyperclip
-
 pip install hangul_utils
 
 >How to use
